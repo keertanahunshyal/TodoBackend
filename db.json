@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": "dcfa",
+      "name": "keertana",
+      "email": "keertanahunshyal2006@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "f8eb",
+      "name": "keertana1",
+      "email": "keertana1@gmail.com",
+      "password": "123"
+    }
+  ],
+  "todos": []
+}
